@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Large Model Weights (Keep evaluation plots/csv, ignore binary checkpoints)
+*.pt
+*.pth
+*.onnx
+*.engine
+
+# Local Data and Output Directories (prevent committing large images)
+data/
+raw_data/
+unlabelled/
+unlabeled/
+test_images/
+safety_inspection/
+pseudo_labeled_output/
+split_dataset/
+student_dataset/
+

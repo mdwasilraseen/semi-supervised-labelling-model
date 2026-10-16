@@ -1,0 +1,15 @@
+# Core Computer Vision & Deep Learning
+ultralytics>=8.3.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Human-in-the-Loop Web Application
+streamlit>=1.30.0
+streamlit-drawable-canvas>=0.9.3
+
+# Data Processing & Utilities
+pandas>=2.0.0
+Pillow>=10.0.0
+pyyaml>=6.0
+numpy>=1.24.0
+

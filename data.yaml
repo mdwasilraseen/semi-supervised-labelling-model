@@ -1,0 +1,40 @@
+# Dataset configuration for Workplace Safety Detection (YOLO format)
+path: .
+train: data/train/images
+val: data/val/images
+test: data/test/images
+
+nc: 30
+
+names:
+  0: aframeladder
+  1: blockade
+  2: boomlift
+  3: boot
+  4: bumpcap
+  5: bus
+  6: car
+  7: cone
+  8: crane
+  9: excavator
+  10: fire
+  11: forklift
+  12: glove
+  13: hardhat
+  14: lifeline
+  15: lifevest
+  16: loader
+  17: longvest
+  18: mixer
+  19: mobile_phone
+  20: motorcycle
+  21: overalls
+  22: pilier
+  23: roller
+  24: safetyharness
+  25: scissorlift
+  26: smoke
+  27: truck
+  28: vest
+  29: worker
+
