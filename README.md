@@ -112,8 +112,8 @@ All evaluation curves and confusion matrices are preserved in the [`runs/detect/
 ### 1. Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/<your-username>/semi-supervised-safety-labeling.git
-cd semi-supervised-safety-labeling
+git clone https://github.com/mdwasilraseen/semi-supervised-labelling-model.git
+cd semi-supervised-labelling-model
 pip install -r requirements.txt
 ```
 
